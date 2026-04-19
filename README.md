@@ -1,37 +1,112 @@
-<h1 align="center">Hi 👋, I'm Rahul chourasiya</h1>
-<h3 align="center">A computer science student who is passsionate for web development and competitive programming</h3>
-<img  align="right" width="400px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfok2tNoJD1dAOV5kU3qjsiZHhhd6ib4O5Q&usqp=CAU">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=merahul22&label=Profile%20views&color=0e75b6&style=flat" alt="merahul22" /> </p>
+<h1 align="center">Hi 👋, I'm Rahul Chourasiya</h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT**
-
-- 💬 Ask me about **c++**
-
-- 📫 How to reach me **RAJRAHUL6572@GMAIL.COM**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rahul chourasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul chourasiya" height="30" width="40" /></a>
-<a href="https://instagram.com/me_raul23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_raul23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/merahul23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="merahul23" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/rajrahul6572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rajrahul6572" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rajrahumr01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajrahumr01" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Lead+%40+DTU;ML+%2B+MLOps+Enthusiast;Building+Scalable+Systems+%F0%9F%9A%80" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=merahul22&show_icons=true&locale=en&layout=compact" alt="merahul22" /></p>
+##  About Me
+-  Computer Science @ **Delhi Technological University (DTU)**  
+-  **Frontend Head @ DTU Training & Placement Cell (9000+ users)**  
+-  Ex **Software development Intern @ NorthCorp Software**
+-  Ex Tech lead **@Visey.co.in**
+-  Strong in **System Design, Full Stack & Scalable Architectures**  
+-  Passionate about **ML Systems + Backend Engineering**  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merahul22&show_icons=true&locale=en" alt="merahul22" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merahul22&" alt="merahul22" /></p>
+##  Experience
 
+### Frontend Head — DTU Training & Placement Cell
+- Led frontend architecture for a **Resume Manager platform (9000+ users)**
+- Built **20+ scalable components (16k+ LOC)**
+- Integrated APIs with **robust error handling + UX feedback systems**
 
+### Tech Lead — Visey Pvt. Ltd.
+- Led team of 5 → built **Next.js fullstack app (2000+ users)**
+- Designed **complex Prisma schemas (10+ relational models)**
+- Implemented **Docker + CI/CD pipelines**
+- Boosted SEO via **SSR + dynamic metadata**
 
-<!---
-merahul22/merahul22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Software Development Intern — NorthCorp Software
+- Built **15+ reusable React components**
+- Improved performance score **68 → 92 (Lighthouse)**
+- Resolved **20+ UI/UX issues**
+
+---
+
+##  Projects
+
+###  RecomBlend — Hybrid Recommendation System
+- Built scalable recommender using **Dask + scikit-learn**
+- Parallelized similarity computation for performance
+- Deployed using **Docker + AWS ECS + CI/CD**
+
+###  Resume Screening System
+- Ranked resumes using **TF-IDF + cosine similarity**
+- Built with **Streamlit + NLP pipeline**
+- Used in **20+ hiring workflows**
+
+###  Personalized News Aggregator
+- Built using **Next.js + Flask + PostgreSQL**
+- Used **MIND dataset + NewsAPI**
+- Fully deployed using **Docker + AWS EC2**
+
+---
+
+## Technical Skills
+
+**Languages:**  
+`TypeScript` `Python` `C++` `JavaScript` `SQL` `Bash`
+
+**Frameworks:**  
+`React.js` `Next.js` `Flask` `Express.js`  
+`scikit-learn` `Pandas` `NumPy`
+
+**DevOps & Cloud:**  
+`Docker` `AWS (EC2, S3, ECS, ECR)` `GCP`  
+`CI/CD` `GitHub Actions` `DVC` `Nginx`
+
+**Databases:**  
+`PostgreSQL` `MongoDB` `MySQL` `Prisma ORM`
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=merahul22&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merahul22&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merahul22&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+##  Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/rahul--chourasiya"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/me_raul23"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rajrahumr01"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+## What I Focus On
+- Building **scalable full-stack systems**
+-  Designing **efficient ML pipelines**
+-  Writing **clean, production-ready code**
+-  Shipping **real-world impact products**
+
+---
+
+##  Contact
+rajrahul6572@gmail.com  
+
+---
+
+ *“I build systems that scale, perform, and solve real problems.”*
